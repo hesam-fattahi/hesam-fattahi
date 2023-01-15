@@ -1,11 +1,3 @@
-**👷 File in construction :)**  
-  
-
-<div align="center">
-<img src="https://github.com/hesam-fattahi/hesam-fattahi/blob/main/header-image.png" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hello! I'm Hesam, a front-end developer. My goal is to combine design and technology to develop scalabe, user-friendly websites.</div>  
   
 
