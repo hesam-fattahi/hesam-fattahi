@@ -1,5 +1,5 @@
-### <div align="center">Hello! I'm Hesam, a front-end developer. My goal is to combine design and technology to develop scalabe, user-friendly websites.</div>  
-  
+### Hello!👋 I'm Hesam, a front-end developer. My goal is to combine design and technology to develop scalabe, user-friendly websites. 
+  <br />
 
 - 🌱 I’m currently learning **Node.js**.  
   
