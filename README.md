@@ -35,16 +35,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<a href="https://github.com/hesam-fattahi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
 ## Github Stats 
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=hesam-fattahi&show_icons=true&count_private=true&hide_border=true" align="center" />
