@@ -36,9 +36,10 @@
 <br/>  
 
 ## Github Stats 
-<!-- <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=hesam-fattahi&show_icons=true&count_private=true&hide_border=true" align="center" />
-</td><td valign="top" width="50%"> -->
+<table><tr><td valign="top" width="50%">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hesam-fattahi&theme=synthwave" align="center" />
+</td><td valign="top" width="50%">
   <img src="https://streak-stats.demolab.com?user=hesam-fattahi&theme=radical&hide_border=true&border_radius=5" align="center" />
-<!-- </td></tr></table> -->
+</td></tr></table>
 <br />
