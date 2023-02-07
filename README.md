@@ -1,7 +1,7 @@
 ### Hello!👋 I'm Hesam, a front-end developer. My goal is to combine design and technology to develop scalabe, user-friendly websites. 
   <br />
 
-- 🌱 I’m currently learning **Node.js** and **React**.  
+- 🌱 I’m currently learning **Node.js** and **React.js**.  
   
 
 - 🔎 Check out my projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/hesamf01)**!  
