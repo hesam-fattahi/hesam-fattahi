@@ -1,45 +1,41 @@
-### Hello!👋 I'm Hesam, a front-end developer. My goal is to combine design and technology to develop scalabe, user-friendly websites. 
-  <br />
+# Hey there, I'm Hesam Fattahi! 👋
 
-- 🌱 I’m currently learning **Node.js** and **React.js**.  
-  
-
-- 🔎 Check out my projects on **[Frontend Mentor](https://www.frontendmentor.io/profile/hesamf01)**!  
-  
-
-- 👯 I’m looking to collaborate on **open-source projects**.  
-  
-
-- 👨‍💼Reach me at  **hesam_fattahi@outlook.com**.  
-  
+I'm a frontend developer (and future full-stack developer) who's passionate about learning and growing. My goal is to constantly improve my skills and knowledge in order to create high-quality, user-friendly web applications. I believe in the power of collaboration and am always looking for opportunities to work with others on exciting projects.
 
 <br/>  
 
-
+## About me 
+- 🌱 I’m currently learning **React.js**.  
+  
+- 🔎 I've completed projects at **Frontend Mentor** you can check out [here](https://www.frontendmentor.io/profile/hesamf01)!  
+  
+- 👯 I’m looking to contribute to **open-source projects** and **collaborate** with other developers.
 
 <br/>  
 
+## Projects
+You can check out what I've worked on so far [here on my repositories page](https://github.com/hesam-fattahi?tab=repositories).
 
-## My Skill Set
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>  
+<br/>  
+
+## Some of the tools I use:
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>  
 
 ## Github Stats 
-<table><tr><td valign="top" width="50%">
+[![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesam-fattahi)](https://github.com/hesam-fattahi/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hesam-fattahi&theme=synthwave" align="center" />
-</td><td valign="top" width="50%">
-  <img src="https://streak-stats.demolab.com?user=hesam-fattahi&theme=radical&hide_border=true&border_radius=5" align="center" />
-</td></tr></table>
-<br />
+<br/>  
+
+## Contact Me
+- You can reach me at hesam_fattahi@outlook.com
+- [GitHub](https://github.com/hesam-fattahi)
