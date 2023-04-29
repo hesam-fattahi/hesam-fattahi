@@ -1,22 +1,17 @@
 # Hey there, I'm Hesam Fattahi! 👋
+I'm a frontend developer who's passionate about learning and growing. My goal is to constantly improve my skills and knowledge in order to create high-quality, user-friendly web applications. I believe in the power of collaboration and am always looking for opportunities to work with others on exciting projects.
 
-I'm a frontend developer (and future full-stack developer) who's passionate about learning and growing. My goal is to constantly improve my skills and knowledge in order to create high-quality, user-friendly web applications. I believe in the power of collaboration and am always looking for opportunities to work with others on exciting projects.
-
-<br/>  
 
 ## About me 
 - 🌱 I’m currently learning **React.js**.  
   
 - 🔎 I've completed projects at **Frontend Mentor** you can check out [here](https://www.frontendmentor.io/profile/hesamf01)!  
   
-- 👯 I’m looking to contribute to **open-source projects** and **collaborate** with other developers.
-
-<br/>  
+- 👯 I’m looking to contribute to **open-source projects** and **collaborate** with other developers. 
 
 ## Projects
 You can check out what I've worked on so far [here on my repositories page](https://github.com/hesam-fattahi?tab=repositories).
-
-<br/>  
+ 
 
 ## Some of the tools I use:
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,13 +24,12 @@ You can check out what I've worked on so far [here on my repositories page](http
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>  
 
 ## Github Stats 
 [![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesam-fattahi)](https://github.com/hesam-fattahi/github-readme-stats)
-
-<br/>  
+ 
 
 ## Contact Me
 - You can reach me at hesam_fattahi@outlook.com
 - [GitHub](https://github.com/hesam-fattahi)
+ 
