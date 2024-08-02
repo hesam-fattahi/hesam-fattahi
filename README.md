@@ -1,35 +1,21 @@
-# Hey there, I'm Hesam Fattahi! 👋
-I'm a frontend developer who's passionate about learning and growing. My goal is to constantly improve my skills and knowledge in order to create high-quality, user-friendly web applications. I believe in the power of collaboration and am always looking for opportunities to work with others on exciting projects.
+## Hesam Fattahi | Frontend Developer
 
+I'm Hesam, a frontend developer passionate about crafting user-friendly web experiences. I enjoy learning new technologies and collaborating on exciting projects.
 
-## About me 
-- 🌱 I’m currently learning **React.js**.  
-  
-- 🔎 I've completed projects at **Frontend Mentor** you can check out [here](https://www.frontendmentor.io/profile/hesamf01)!  
-  
-- 👯 I’m looking to contribute to **open-source projects** and **collaborate** with other developers. 
+## Skills & Experience
 
-## Projects
-You can check out what I've worked on so far [here on my repositories page](https://github.com/hesam-fattahi?tab=repositories).
- 
+* Proficient in HTML, CSS, JavaScript (including React.js)
+* Experience with build tools (Webpack, Babel) and version control (Git)
+* Built projects on Frontend Mentor: [https://www.frontendmentor.io/profile/hesamf01](https://www.frontendmentor.io/profile/hesamf01)
+* You can check out other projects in my [repositories](https://github.com/hesam-fattahi?tab=repositories) 
 
-## Some of the tools I use:
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Looking for
 
+* Open-source contributions & collaborations
+* Frontend development opportunities
 
-## Github Stats 
-[![Hesam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesam-fattahi)](https://github.com/hesam-fattahi/github-readme-stats)
- 
+## Contact
 
-## Contact Me
-- You can reach me at hesam_fattahi@outlook.com
-- [GitHub](https://github.com/hesam-fattahi)
- 
+* Email: hesam.fattahi.hf@gmail.com
+* GitHub: [https://github.com/hesam-fattahi](https://github.com/hesam-fattahi)
+* LinkedIn: [https://www.linkedin.com/in/hesam-fattahi/](https://www.linkedin.com/in/hesam-fattahi/)
