@@ -1,5 +1,3 @@
-![Header](./header-image.png)
-
 ## Hesam Fattahi | Frontend Developer
 
 I'm Hesam, a frontend developer passionate about crafting user-friendly web experiences. I enjoy learning new technologies and collaborating on exciting projects. 🚀
