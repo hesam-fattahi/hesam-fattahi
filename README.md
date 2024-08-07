@@ -4,12 +4,14 @@
 
 A frontend developer passionate about crafting user-friendly web experiences. I enjoy learning new technologies and collaborating on exciting projects. 🚀
 
+You can check out my [Portfolio](https://hesamfattahi.netlify.app/). 🌐
+
 ## About me 💼
 
-* Currently learning about testing 🧪
-* Proficient in HTML, CSS (+Tailwind, Scss, Styled Components) 🖌️, JavaScript (+React.js) ⚛️
-* Experience with build tools (Webpack, Babel) 🛠️ and version control (Git) 🔄
-* Check out my [Portfolio](https://hesamfattahi.netlify.app/) 🌐
+🔭 I’m currently working on improving the projects in my repositories.
+👯 I’m looking to collaborate on exciting open-source projects.
+🤝 I’m currently looking for job opportunities.
+🌱 I’m currently learning about testing and exploring Next.js. I’ll be uploading a new project based on Next.js soon!
 * Built projects on Frontend Mentor: [https://www.frontendmentor.io/profile/hesamf01](https://www.frontendmentor.io/profile/hesamf01)
 * You can check out all of my projects in my [repositories](https://github.com/hesam-fattahi?tab=repositories) 
 
