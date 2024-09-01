@@ -1,6 +1,4 @@
-![Profile Banner](./banner.jpg)
-
-## Hi 👋, I'm Hesam.
+## Hi, I'm Hesam 
 
 I've been working as a freelance frontend developer for the past few months, but now I'm exploring backend development and automation with Python.
 
