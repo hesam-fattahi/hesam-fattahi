@@ -1,9 +1,9 @@
 ## Hi, I'm Hesam 
 
-I've been working as a freelance frontend developer for the past few months, but now I'm exploring backend development and automation with Python.
+I've been learning web developement for the past few months and making projects with React, but now I'm exploring backend development and automation with Python.
 
 ## About me 💼
-- 🔭 Currently working on projects with Python.
+- 🔭 Currently learning about Python and making projects Django.
 - 🌱 Lately, I've been reading about cloud computing and it's really piqued my interest.
 - 🧑‍💻 My profile and projects on [Frontend Mentor](https://www.frontendmentor.io/profile/hesam-fattahi)
 
