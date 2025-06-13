@@ -1,6 +1,6 @@
 ## About me
 Hello, I'm Hesam!
-A master's student in Software Engineering. Passionate about tech, innovation, and continuous learning. Currently learning about Machine Learning and Cloud Technologies.
+A master's student in Software Engineering. Passionate about tech, innovation, and continuous learning. Currently learning about distributed systems.
 
 
 ## Get in touch 
