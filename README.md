@@ -1,10 +1,10 @@
-## About me
-Hello, I'm Hesam!
-A master's student in Software Engineering. Passionate about tech, innovation, and continuous learning. Currently learning about distributed systems.
+<h2>Hi, I'm Hesam 👋</h2>
 
+I'm currently pursuing my master's in Software Engineering at IUST, with a focus on distributed systems.  
 
-## Get in touch 
+## Say hello
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hesam.fattahi.hf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesam-fattahi/)
 
-<h6 align="center">Thanks for stopping by! 😄</h6>
+<h4>Thanks for stopping by! 😊</h4>
