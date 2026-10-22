@@ -18,7 +18,7 @@ And of course, a job.
 
 ### Let's chat
 
-[Email](mailto:hesam.fattahi.hf@gmail.com) — where I try to be serious and professional.
+[Gmail](mailto:hesam.fattahi.hf@gmail.com) | [ProtonMail](mailto:hesamfattahi@protonmail.com) — where I try to be serious and professional.
 
 [LinkedIn](https://www.linkedin.com/in/hesam-fattahi/) — where I pretend I've done a lot and know what I'm doing.
 
